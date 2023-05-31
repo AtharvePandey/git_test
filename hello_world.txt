@@ -1,0 +1,7 @@
+#include <stdio.h>
+
+int main(){
+    printf("yes i know this is a text file lol);
+    return 0; 
+}
+

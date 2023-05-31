@@ -1,2 +1,6 @@
 # git_test
+
 just me experimenting with github and the terminal and vscode....
+
+
+the following line you are reading is what i added after cloning the repo...
