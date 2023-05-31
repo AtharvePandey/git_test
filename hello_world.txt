@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(){
-    printf("yes i know this is a text file lol);
+    printf("yes i know this is a text file, not a c file lol);
     return 0; 
 }
 
